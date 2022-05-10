@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LinPengda
 - 👀 I’m interested in CS
-- 🌱 I’m currently learning more aand more
+- 🌱 I’m currently learning more and more
 - 💞️ I’m looking to collaborate on all the interesting things
 - 📫 How to reach me ...
 
